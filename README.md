@@ -8,4 +8,6 @@ I would love to combine my knowledge about **social issues** with my new learned
 I also care about 
 - the planet
 - animals, especially my two cats
--
+- feminism
+
+

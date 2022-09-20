@@ -20,7 +20,7 @@ I also care about
 - animals, especially my two cats  :cat:
 - feminism :collision:
 
-![cats against catcalls ](https://ih1.redbubble.net/image.245909819.7304/st,small,507x507-pad,600x600,f8f8f8.u1.jpg)
+(<img src="https://ih1.redbubble.net/image.245909819.7304/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="cats against catcalls" width="200"/>)
 
 <!--Größe verändern-->
 

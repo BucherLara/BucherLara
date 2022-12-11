@@ -18,10 +18,10 @@ I'm a 26 years old Junior Web Dev, who just attended a coding bootcamp <a href="
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/next.png" width="50" height="50"/> &nbsp;
 <img src="https://w7.pngwing.com/pngs/232/470/png-transparent-circle-js-node-node-js-programming-round-icon-popular-services-brands-vol-icon.png" width="50" height="50"/>&nbsp;
 <br />
+<br />
+<br />
 
-
-
-I also care about 
+### I also care about 
 - the planet 🌍 
 - animals, especially my two cats  :cat:
 - feminism :collision:

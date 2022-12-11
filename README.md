@@ -3,8 +3,9 @@
 I'm a 26 years old Junior Web Dev, who just attended a coding bootcamp <a href="https://www.neuefische.de/?utm_source=sea_google&utm_medium=search&utm_campaign=brand_neue_fische_bundesweit&gclid=EAIaIQobChMIg72YpJSh-gIV2o9oCR0TJwTmEAAYASAAEgKK9vD_BwE" target="_blank"> @neuefische</a> 🐟 
 <br/>I also care about the planet 🌍 , animals, especially my two cats  :cat: and feminism :collision:
 
-<img src="https://ih1.redbubble.net/image.245909819.7304/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="cats against catcalls" width="200"/>
-
+<p align="center">
+  <img src="https://ih1.redbubble.net/image.245909819.7304/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="cats against catcalls" width="200" />
+</p>
 
 ---
 ## 🧰 Tech Stack

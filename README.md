@@ -21,6 +21,27 @@ I'm a 26 years old Junior Web Dev, who just attended a coding bootcamp <a href="
 <br />
 <br />
 
+## My current project 
+
+![Uberlebenshilfen für wohnungslose Menschen-App](https://github.com/BucherLara/Capstone-Project/blob/main/public/img/Ueberlebenshilfen-App.png)
+
+Überlebenshilfen für wohnungslose Menschen is an app which informs about offers of social institutions so that people in need can find appropriate support easily.
+
+With the help of my app, people can search specifically for offers of help that meet their needs. Likewise, social institutions have the opportunity to inform about their offers.
+
+
+This app is the result of my Web Development Bootcamp at neuefische which I attended in late 2022.
+
+
+This app is optimized for mobile usage, so please set your browser to mobile version.
+
+You can find the corresponding repo [here](https://github.com/BucherLara/Capstone-Project)!
+
+
+
+
+
+
 ### I also care about 
 - the planet 🌍 
 - animals, especially my two cats  :cat:

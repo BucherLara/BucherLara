@@ -16,7 +16,7 @@ I'm a 26 years old Junior Web Dev, who just attended a coding bootcamp <a href="
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/html.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/css.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/next.png" width="50" height="50"/> &nbsp;
-<img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="60" height="60"/>&nbsp;
+<img src="https://w7.pngwing.com/pngs/232/470/png-transparent-circle-js-node-node-js-programming-round-icon-popular-services-brands-vol-icon.png" width="50" height="50"/>&nbsp;
 <br />
 
 

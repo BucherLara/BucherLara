@@ -3,9 +3,6 @@
 I'm a 26 years old Junior Web Dev, who just attended a coding bootcamp <a href="https://www.neuefische.de/?utm_source=sea_google&utm_medium=search&utm_campaign=brand_neue_fische_bundesweit&gclid=EAIaIQobChMIg72YpJSh-gIV2o9oCR0TJwTmEAAYASAAEgKK9vD_BwE" target="_blank"> @neuefische</a> 🐟 
 
 
-
-*I would love to combine my knowledge about **social issues** with my new learned **programming skills**.*
-
 ---
 ## 🧰 Tech Stack
 

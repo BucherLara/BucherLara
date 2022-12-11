@@ -7,8 +7,8 @@ I'm a 26 years old Junior Web Dev, who just attended a coding bootcamp <a href="
 *I would love to combine my knowledge about **social issues** with my new learned **programming skills**.*
 
 ---
-## Tech Stack
-# 🧰 &nbsp;My toolbox
+## 🧰 Tech Stack
+
 
 
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/javascript.png" width="50" height="50"/> &nbsp;

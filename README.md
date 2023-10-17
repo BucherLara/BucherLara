@@ -1,6 +1,6 @@
 # Hello, nice to see you! 👋
 
-I'm a 26 years old Junior Web Dev, who just attended a coding bootcamp <a href="https://www.neuefische.de/?utm_source=sea_google&utm_medium=search&utm_campaign=brand_neue_fische_bundesweit&gclid=EAIaIQobChMIg72YpJSh-gIV2o9oCR0TJwTmEAAYASAAEgKK9vD_BwE" target="_blank"> @neuefische</a> 🐟 
+I'm a 27 years old Junior Web Dev, who attended a coding bootcamp <a href="https://www.neuefische.de/?utm_source=sea_google&utm_medium=search&utm_campaign=brand_neue_fische_bundesweit&gclid=EAIaIQobChMIg72YpJSh-gIV2o9oCR0TJwTmEAAYASAAEgKK9vD_BwE" target="_blank"> @neuefische</a> 🐟 
 <br/>I also care about the planet 🌍 , animals, especially my two cats  :cat: and feminism :collision:
 <br/>
 <p align="center">

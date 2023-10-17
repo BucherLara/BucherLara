@@ -17,7 +17,7 @@ I'm a 27 years old Junior Web Dev, who attended a coding bootcamp <a href="https
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/html.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/css.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/next.png" width="50" height="50"/> &nbsp;
-<img src="https://w7.pngwing.com/pngs/232/470/png-transparent-circle-js-node-node-js-programming-round-icon-popular-services-brands-vol-icon.png" width="50" height="50"/>&nbsp;
+
 <br />
 <br />
 <br />

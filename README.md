@@ -30,6 +30,9 @@ Here is a small preview of my website 🚀
 
 ![about](https://github.com/BucherLara/BucherLara/assets/112871731/b5a96e9a-9774-49e8-ad18-b337269a1d42)
 
+![cv](https://github.com/BucherLara/BucherLara/assets/112871731/36da59be-ded5-4227-b379-84f14028c6a0)
+![projects](https://github.com/BucherLara/BucherLara/assets/112871731/94bc4dfc-509c-4dc6-945c-6f76aa33922e)
+
 
 
 

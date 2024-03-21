@@ -32,11 +32,10 @@ Here is a small preview of my website ✨
 ![cv](https://github.com/BucherLara/BucherLara/assets/112871731/36da59be-ded5-4227-b379-84f14028c6a0)
 
 
+<br/>
+<br/>
 
-
-
-
-## My current project 
+## My last project 
 
 ![Uberlebenshilfen für wohnungslose Menschen-App](https://github.com/BucherLara/Capstone-Project/blob/main/public/img/Ueberlebenshilfen-App.png)
 

@@ -26,6 +26,10 @@ I'm a 27 years old Junior Web Dev, who attended a coding bootcamp <a href="https
 
 <a href="https://lara-bucher.vercel.app/" target="_blank">https://lara-bucher.vercel.app/</a>
 
+Here is a small preview of my website 🚀
+
+![about](https://github.com/BucherLara/BucherLara/assets/112871731/b5a96e9a-9774-49e8-ad18-b337269a1d42)
+
 
 
 
